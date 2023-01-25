@@ -1,0 +1,19 @@
+# Consistency is Key: My Personal Story of Learning C and C++ and the Power of Sticking With It
+
+As a first-year computer science student, learning C and C++ programming can be a challenging but rewarding experience. In this blog post, I will be sharing my personal journey of learning C and C++ programming, including the resources I used, the challenges I faced, and the tips and advice I have for others who are just starting to learn these languages.
+
+I began my journey of learning C and C++ programming by taking a course from Internshala trainings. The course was well-structured and beginner-friendly, providing a solid foundation in the basics of these languages. I found the course to be of high quality, and at the time I purchased it, it was only around 1k INR. One of the best part of the course was that it was available in English and now Hindi. I would rate the course 4.5 out of 5.
+
+Before I started learning C and C++, I had some prior programming experience, having learned basic Python in my class 11th and 12th as it was included in CBSE’s syllabus. If you are a beginner, I highly recommend starting with Python. It is a beginner-friendly language with a relatively simple syntax, which makes it a great starting point for those who are new to programming. Python also has a wide range of libraries and frameworks that make it easy to build powerful applications and automate tasks, which is perfect for those who are looking to explore different areas of computer science.
+
+However, learning C and C++ was still a bit of a challenge for me, particularly when it came to understanding recursion. Recursion is a programming technique where a function calls itself, and it can be quite tricky to grasp. I found that the key to understanding recursion was to practice as much as I could. I took up multiple coding questions and exercises related to recursion and attempted them regularly. This helped me to build my understanding of recursion step by step and by the time I was done I was confident in solving recursion problems.
+
+There were times when I lost my interest in learning C and C++, but I knew that consistency was key. I made sure to solve at least one question or exercise related to C and C++ every day, even when I wasn't feeling motivated. This helped me to keep my skills sharp and maintain my interest in the language.
+
+My tip for anyone learning C and C++ is to be consistent, even when you're feeling stuck. Consistency is the key to success in any endeavour, and learning C and C++ is no exception. It may seem difficult at first, but with practice and persistence, you'll be able to master these languages and become a proficient computer scientist.
+
+One of the projects I completed while learning C and C++ programming was a simple hand cricket game. It was a fun and engaging project that helped me to solidify my understanding of the concepts I had learned.
+
+In conclusion, I believe that C is an important language to learn, not just because it is a prerequisite for learning C++, but also because it has a rich history and is still widely used today. Learning C and C++ can be challenging, but with the right resources and a consistent approach, it is possible to master these languages and become a proficient computer scientist
+
+Learning C and C++ can be challenging, but with the right resources, it's definitely achievable. YouTube is a great place to start, as there are many tutorials and lectures available for free. However, a structured course can provide a clear roadmap and help you avoid distractions, which is why I invested in a course and I found it worth my time and investment. While free resources are available, a course can help you make the most of your time and effort.If you're interested, you can check out the course I took by using my referral link [https://trainings.internshala.com/refer/copy\_link/ISRP20311867](https://trainings.internshala.com/refer/copy_link/ISRP20311867)
